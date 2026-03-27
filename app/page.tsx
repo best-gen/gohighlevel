@@ -1,5 +1,5 @@
-import DemoOne from "@/components/ui/demo"
+import { Component } from "@/components/ui/vapour-text-effect"
 
 export default function Home() {
-  return <DemoOne />
+  return <Component />
 }
